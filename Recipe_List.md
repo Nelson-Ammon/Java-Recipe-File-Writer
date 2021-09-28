@@ -7,14 +7,13 @@
 | 1-1/2 teaspoons Oregeno|
 | 1 Teaspoon each Salt & pepper|
 | 2 Tablespoons Olive or Vegtable oil|
-__Step 1.__ Pre-heat oven to 425
-__Step 2.__ thaw the chicken
-__Step 3.__ Combine spices 
-__Step 4.__ rub olive or vegtable oil onto chicken
-__Step 5.__ Spread spices onto chicken
-__Step 6.__ Put the chicken onto a tray that is lined with foil 
-__Step 7.__ put tray into oven and cook for 18 mins
-
+* __Step 1.__ Pre-heat oven to 425
+* __Step 2.__ thaw the chicken
+* __Step 3.__ Combine spices 
+* __Step 4.__ rub olive or vegtable oil onto chicken
+* __Step 5.__ Spread spices onto chicken
+* __Step 6.__ Put the chicken onto a tray that is lined with foil 
+* __Step 7.__ put tray into oven and cook for 18 mins
 
 ---
 # German Pancakes
