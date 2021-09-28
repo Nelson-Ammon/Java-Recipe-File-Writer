@@ -54,7 +54,7 @@ public class Recipe_Input {
             System.out.println("When finished type 'done'");
             System.out.print(count+". "); 
             text = scan.nextLine();// Take next input from user and save it in "text"
-            pw.write("__Step "+ count + ".__ " + text + "\n\n");       
+            pw.write("* __Step "+ count + ".__ " + text + "\n\n");       
             count++; 
             }
 
