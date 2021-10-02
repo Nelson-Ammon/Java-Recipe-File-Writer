@@ -1,8 +1,7 @@
 # Overview
-This is a small java project I created to learn the basics of java! The main purpose of this software was to be more familiar with how java worked as a programming language and feel more comftorable with the basics of how it can be used. 
+This is a small java project I created to learn the basics of java! The main purpose of this software was to be more familiar with how java worked as a programming language and feel more comfortable with the basics of how it can be used.
 
-This software asks for input from the user and prints it all out to a markdown file where the user can export it to a PDF.
-Or the user can store it on the computer in anyway that they would like! 
+This software asks for input from the user and prints it all out to a markdown file where the user can export it to a PDF. Or the user can store it on the computer in anyway that they would like!
 
 
 [Software Demo Video](http://youtube.link.goes.here)
