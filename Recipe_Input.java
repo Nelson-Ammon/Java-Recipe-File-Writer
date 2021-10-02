@@ -56,13 +56,13 @@ public class Recipe_Input {
                 if (last == s) {
                         System.out.print("How many " + text.substring(0, 1).toUpperCase() + text.substring(1).toLowerCase()  + " is needed in the recipe? ");
                         amount = scan.nextLine();
-                        pw.write("* " + amount + " " + text.substring(0, 1).toUpperCase() + text.substring(1).toLowerCase() + "\n");
+                        pw.write("| " + amount + " " + text.substring(0, 1).toUpperCase() + text.substring(1).toLowerCase() + "|"+"\n");
                         num++;
                     }
                     else{
                         System.out.print("How much " + text.substring(0, 1).toUpperCase() + text.substring(1).toLowerCase()  + " is needed in the recipe? ");
                         amount = scan.nextLine();
-                        pw.write("* " + amount + " " + text.substring(0, 1).toUpperCase() + text.substring(1).toLowerCase()  + ""+ "\n");
+                        pw.write("| " + amount + " " + text.substring(0, 1).toUpperCase() + text.substring(1).toLowerCase()  + "|"+ "\n");
                         num++;
                     }
             }
